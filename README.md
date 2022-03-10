@@ -11,3 +11,7 @@
 </div>
 
 ---
+
+## What is it?
+
+Hi everyone, my name is Shukhrat. I'm .NET developer. Here you can prepare for HR and technical interview and also you can improve your Data Structures and Algorithm skills.
