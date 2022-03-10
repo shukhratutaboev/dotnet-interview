@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img src="https://user-images.githubusercontent.com/89694184/157676807-d9f751fa-ad3e-4a10-9ba6-76235eed3ac5.png" alt=".NET Interview" width="400">
+    <img src="https://user-images.githubusercontent.com/89694184/157677357-bbcc91f1-36e9-4f3f-80ad-6ed19077deb1.png" alt=".NET Interview" width="400">
   </a>
   <br />
   <p>
